@@ -9,9 +9,11 @@ This repo contains AI/ML applications in the following areas:
  -   [Checkbox detection on bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Check_box_detection_on_bank_documents.ipynb)
  -   [Use OCR to extract content from bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/OCR_for_bank_documents.ipynb)
   
-### Risk management, fraud detection, AML
+### Risk management, fraud detection, AML:
  - [Anomaly detection for credit card fraud](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Anomaly-detection-credit-card-fraud-analysis.ipynb)
  - [Credit card default prediction using LGBM method](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Credit%20card%20default%20predition%20using%20LGBM.ipynb)
 
+### Marketing, targeting, conversion prediction:
+ - [Marketing campaign conversion prediction](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/marketing-campaign-conversion-prediction.ipynb)
 
 The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. This repo is work in progress, more use cases will be shared. 
