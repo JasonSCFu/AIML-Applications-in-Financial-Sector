@@ -16,6 +16,7 @@ This repo contains AI/ML applications in the following areas:
 ### Marketing, targeting, conversion prediction:
  - [Marketing campaign conversion prediction](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/marketing-campaign-conversion-prediction.ipynb)
 
-
+### ML techniques, pipeline, data processing: 
+ - [Automated Feature Engineering](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Automated_Feature_Engineering.ipynb)
 
 The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. This repo is work in progress, I will update it from time to time. 
