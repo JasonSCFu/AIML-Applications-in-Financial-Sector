@@ -11,6 +11,7 @@ This repo contains AI/ML applications in the following areas:
   
 ### Risk management, fraud detection, AML:
  - [Anomaly detection for credit card fraud](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Anomaly-detection-credit-card-fraud-analysis.ipynb)
+ - [Unsupervised anomaly detection for card fraud](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Unsupervised%20Anomaly%20Detection%20Card%20Fraud.ipynb)
  - [Credit card default prediction using LGBM method](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Credit%20card%20default%20predition%20using%20LGBM.ipynb)
 
 ### Marketing, targeting, conversion prediction:
