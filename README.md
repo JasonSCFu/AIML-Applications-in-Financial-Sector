@@ -21,6 +21,7 @@ This repo contains AI/ML applications in the following areas:
 ### ML techniques, pipeline, data processing: 
  - [Automated feature engineering](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Automated_Feature_Engineering.ipynb)
  - [Semi-auto feature selection techniques](https://github.com/JasonSCFu/AIML-applications-in-Banking/tree/main/ML%20techniques/Feature%20Selection)
+ - [Making sense of time series features](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/ML%20techniques/Making_Sense_Of_Time_Series_Features.ipynb)
 
 The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
 This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
