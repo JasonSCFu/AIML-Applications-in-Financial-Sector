@@ -10,7 +10,7 @@ This repo contains AI/ML applications in the following areas:
  - [General python codes for data manipulation](https://github.com/JasonSCFu/Python-basics/blob/main/Code%20toolkits%20for%20data%20science.ipynb)
  - [Pandas for data science](https://github.com/JasonSCFu/Python-basics/blob/main/pandas_data_manipulation.ipynb)
 
-### ML techniques, pipeline, data processing: 
+### ML techniques, feature engineering, pipeline: 
  - [Automated feature engineering](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Automated_Feature_Engineering.ipynb)
  - [Semi-auto feature selection techniques](https://github.com/JasonSCFu/AIML-applications-in-Banking/tree/main/ML%20techniques/Feature%20Selection)
  - [Making sense of time series features](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/ML%20techniques/Making_Sense_Of_Time_Series_Features.ipynb)
