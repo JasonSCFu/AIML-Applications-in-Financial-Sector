@@ -30,6 +30,11 @@ This repo contains AI/ML applications in the following areas:
 ### Marketing, targeting, conversion prediction:
  - [Marketing campaign effective targeting](https://github.com/JasonSCFu/Bank-Marketing-Campaign-Management-)
 
+### Customer services:
+ - [Complaints Analysis using NLP techniques](https://github.com/JasonSCFu/Bank-Reviews-Complaints-Analysis)
+
+
+
 The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
 This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
 at sfu012@sina.com
