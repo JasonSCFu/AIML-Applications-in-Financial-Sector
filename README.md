@@ -29,6 +29,7 @@ This repo contains AI/ML applications in the following areas:
  
 ### Marketing, targeting, conversion prediction:
  - [Marketing campaign effective targeting](https://github.com/JasonSCFu/Bank-Marketing-Campaign-Management-)
+ - [End to End AutoML for insurance cross selling](https://github.com/JasonSCFu/AutoML-insurance-cross-selling)
 
 ### Customer services:
  - [Complaints Analysis using NLP techniques](https://github.com/JasonSCFu/Bank-Reviews-Complaints-Analysis)
