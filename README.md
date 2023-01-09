@@ -38,6 +38,9 @@ This repo contains AI/ML applications in the following areas:
 
 ### Demo and visualization
  - [Use Streamlit app to demo ML model result](https://github.com/JasonSCFu/Demo-ML-model-prediction-with-Streamlit-app)
+ 
+### MLops, API, deployment
+ - [Use FastAPI to deploy ML model into production](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model)
 
 The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
 This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
