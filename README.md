@@ -2,7 +2,7 @@
 
 This repo mainly consists of actual practical use cases, applications of AI/ML in the banking industry. Some of them are actual projects I undertook and some are sparked by industry collaboration sharing. 
 
-I have worked in various roles in the banking industry, including personalized marketing strategy, risk management, fraud detection, robotic process automation (OCR). Over the years, I have seen how banks are trying to move from traditional statistical modelling to AI/ML modelling. With the acceleration of cloud migration and the speed of data accumulation, the trend of using advanced AI/ML will continue and will be the key factors to differentiate with competitor. 
+I have worked in various roles in the banking industry, including personalized marketing strategy, risk management, fraud detection, robotic process automation (OCR). Over the years, I have seen how banks are trying to move from traditional statistical modelling to AI/ML modelling. With the acceleration of cloud migration and the speed of data accumulation, the trend of using advanced AI/ML will continue and will be the key factors to differentiate with competitors. 
 
 This repo contains AI/ML applications in the following areas:
 
@@ -42,6 +42,6 @@ This repo contains AI/ML applications in the following areas:
 ### MLops, API, deployment
  - [Use FastAPI to deploy ML model into production](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model)
 
-The adoption of AI/ML is banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
+The adoption of AI/ML in banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
 This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
 at sfu012@sina.com
