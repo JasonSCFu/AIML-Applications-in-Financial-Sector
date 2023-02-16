@@ -17,6 +17,8 @@ This repo contains AI/ML applications in the following areas:
  - [Missing value imputation using DataWig](https://github.com/JasonSCFu/AIML-applications-in-Banking/tree/main/ML%20techniques/Missing%20Data%20Imputation/DataWig-Missing-Data-Imputation)
  - [Tactics for imbalanced data](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/ML%20techniques/Techniques_for_imbalanced_classification.ipynb)
  - [Extract model insight using permutation importance](https://github.com/JasonSCFu/Extract-insights-from-model-output-using-permutation-importance)
+ - [Model pipeline framework](https://github.com/JasonSCFu/Model-pipeline-framework)
+
 
 ### OCR techniques to digitalize banking documents
  -   [Checkbox detection on bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Check_box_detection_on_bank_documents.ipynb)
