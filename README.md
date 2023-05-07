@@ -46,6 +46,8 @@ This repo contains AI/ML applications in the following areas:
 ### MLops, API, deployment
  - [Use FastAPI to deploy ML model into production](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model)
  - [Flask API web services for ML model deployment](https://github.com/JasonSCFu/Flask-API-web-services-for-model-deployment)
+ - [ML System Production in Google Cloud]( https://github.com/JasonSCFu/Google-Cloud-Production-Machine-Learning-System-Course)
+ 
  
 The adoption of AI/ML in banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
 This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
