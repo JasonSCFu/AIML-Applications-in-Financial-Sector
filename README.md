@@ -1,4 +1,4 @@
-# Artificial Intelligence and Machine Learning applications in Banking
+# Artificial Intelligence and Machine Learning applications in Financial sector
 
 This repository primarily comprises real-world use cases and applications of AI/ML in the banking industry. It includes both projects I have personally undertaken and those inspired by collaborative efforts within the industry.
 
@@ -50,6 +50,5 @@ The repository covers AI/ML applications in the following areas:
  - [ML System Production in Google Cloud]( https://github.com/JasonSCFu/Google-Cloud-Production-Machine-Learning-System-Course)
  
  
-The adoption of AI/ML in banking industry has a lot of obstacles including legacy system integration issue, strict regulatory compliance, infrastructure setup investment, data governance/securities issue etc. 
-This repo is a work in progress and any feedback or comment would be appreciated. Feel free to contact me
-at sfu012@sina.com.
+The implementation of AI/ML in the banking industry encounters numerous obstacles, such as challenges related to integrating with legacy systems, ensuring compliance with strict regulations, investing in infrastructure setup, addressing data governance and security concerns, and more. This repository is an ongoing project, and I welcome any feedback or comments to further enhance its content. Feel free to contact me at sfu012@sina.com.
+
