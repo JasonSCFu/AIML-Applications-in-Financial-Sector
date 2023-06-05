@@ -23,8 +23,9 @@ This repo contains AI/ML applications in the following areas:
 ### OCR techniques to digitalize banking documents
  -   [Checkbox detection on bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Check_box_detection_on_bank_documents.ipynb)
  - [Signature detection on scanned documents using MMdetection](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Detect_signature_from_scanned_document_using_MMdetection.ipynb)
-  -   [Bank form structure and content recognition](https://github.com/JasonSCFu/Deep-Learning-Computer-Vision-Basics/blob/main/Table_structure_and_content_recognition.ipynb)
- -   [Use OCR to extract content from bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/OCR_for_bank_documents.ipynb)
+  -   [Bank form structure and contents recognition](https://github.com/JasonSCFu/Deep-Learning-Computer-Vision-Basics/blob/main/Table_structure_and_content_recognition.ipynb)
+ -   [Using OCR to extract contents from bank document](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/OCR_for_bank_documents.ipynb)
+ -   [Intelligent Document Understanding Visual Questions Answering](https://github.com/JasonSCFu/AIML-applications-in-Banking/blob/main/Intelligent_Document_Understanding.ipynb)
   
 ### Risk management, fraud detection, AML:
  - [Anomaly detection for credit card fraud](https://github.com/JasonSCFu/ML-applications-in-Banking/blob/main/Anomaly-detection-credit-card-fraud-analysis.ipynb)
