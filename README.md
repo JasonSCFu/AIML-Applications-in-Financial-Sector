@@ -48,7 +48,7 @@ The repository covers AI/ML applications in the following areas:
  - [Use FastAPI to deploy ML model into production](https://github.com/JasonSCFu/FastAPI-to-deploy-ML-model)
  - [Flask API web services for ML model deployment](https://github.com/JasonSCFu/Flask-API-web-services-for-model-deployment)
  - [ML System Production in Google Cloud]( https://github.com/JasonSCFu/Google-Cloud-Production-Machine-Learning-System-Course)
- 
+ - [ML application deployment using OpenShift container](https://github.com/JasonSCFu/Deploy-ML-Application-using-OpenShift)
  
 The implementation of AI/ML in the banking industry encounters numerous obstacles, such as challenges related to integrating with legacy systems, ensuring compliance with strict regulations, investing in infrastructure setup, addressing data governance and security concerns, and more. This repository is an ongoing project, and I welcome any feedback or comments to further enhance its content. Feel free to contact me at sfu012@sina.com.
 
