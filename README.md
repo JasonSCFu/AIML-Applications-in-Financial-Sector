@@ -1,10 +1,10 @@
 # Artificial Intelligence and Machine Learning applications in Banking
 
-This repo mainly consists of actual practical use cases, applications of AI/ML in the banking industry. Some of them are actual projects I undertook and some are sparked by industry collaboration sharing. 
+This repository primarily comprises real-world use cases and applications of AI/ML in the banking industry. It includes both projects I have personally undertaken and those inspired by collaborative efforts within the industry.
 
-I have worked in various roles in the banking industry, including personalized marketing strategy, risk management, fraud detection, robotic process automation (OCR). Over the years, I have seen how banks are trying to move from traditional statistical modelling to AI/ML modelling. With the acceleration of cloud migration and the speed of data accumulation, the trend of using advanced AI/ML will continue and will be the key factors to differentiate with competitors. 
+Throughout my experience in various roles within the banking industry, such as personalized marketing strategy, risk management, fraud detection, and robotic process automation (OCR), I have witnessed the transition from traditional statistical modeling to AI/ML modeling. Banks have been increasingly adopting advanced AI/ML techniques to keep pace with the acceleration of cloud migration and the rapid accumulation of data. Utilizing these advanced technologies will be crucial in setting themselves apart from competitors.
 
-This repo contains AI/ML applications in the following areas:
+The repository covers AI/ML applications in the following areas:
 
 ### Data science toolkit:
  - [General python codes for data manipulation](https://github.com/JasonSCFu/Python-basics/blob/main/Code%20toolkits%20for%20data%20science.ipynb)
